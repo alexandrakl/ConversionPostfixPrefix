@@ -1,0 +1,17 @@
+Please enter your Infix expression: 
+a+b+c
+
+ab+c+
+++abc
+Please enter your Infix expression: 
+a+b*c
+
+abc*+
++a*bc
+Please enter your Infix expression: 
+(a+b)*(c-d)
+
+ab+cd-*
+*+ab-cd
+Please enter your Infix expression: 
+
